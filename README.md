@@ -17,3 +17,6 @@ This project is ideal for students learning core Java, as it demonstrates real-w
 - IntelliJ IDEA (development)
 
 ## 🧩 Folder Structure
+SEPT-Smart-Exam-Preparation-Tracker/
+├── SEPT.java
+└── README.md
