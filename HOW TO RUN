@@ -1,0 +1,26 @@
+## 🧪 How to Run the Project
+
+### Prerequisites
+- Java JDK 17 or higher
+- IntelliJ IDEA or any Java-supported IDE
+
+### Steps to Run:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/codinglover11/SEPT-Smart-Exam-Preparation-Tracker-.git
+
+2. Open the project in IntelliJ IDEA
+
+3. Navigate to the file:
+SEPT.java
+
+4. Right-click the file and click:
+Run 'SEPT.main()'
+
+5. Follow the on-screen menu:
+
+1. Add Subject
+2. Log Study Time
+3. Show Report
+4. Exit
